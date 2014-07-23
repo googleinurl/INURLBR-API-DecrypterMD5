@@ -1,8 +1,8 @@
 INURLBR-API-DecrypterMD5
 ========================
 
-![alt text](https://pbs.twimg.com/media/BszUUqyCMAE8Xh5.png "INURLBR-API-DecrypterMD5")
-[**FACEBOOK**](https://fb.com/InurlBrasil) / [**TWITTER**](https://twitter.com/googleinurl)
+![alt text](https://pbs.twimg.com/media/BszUUqyCMAE8Xh5.png "INURLBR-API-DecrypterMD5")                               
+[**FACEBOOK**](https://fb.com/InurlBrasil) / [**TWITTER**](https://twitter.com/googleinurl) / [**BLOG**](blog.inurl.com.br)
 
 >Utilizando serviço decrypter do site md5.gromweb.com é possível descriptografar senhas em massa, seja de um arquivo em texto ou pesquisa single.
 
